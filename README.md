@@ -1,1 +1,1 @@
-# Just Pyhton stuff
+# Just Python stuff
